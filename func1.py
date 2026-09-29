@@ -5,6 +5,10 @@ def func1():
 def func3 ():
     print(3)
 
+def func4():
+    print(4)
+
 func1()
 func3()
+func4()
 
