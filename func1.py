@@ -8,6 +8,9 @@ def func3 ():
 def func4():
     print(4)
 
+def feature():
+    return 0
+
 func1()
 func3()
 func4()
