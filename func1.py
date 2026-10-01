@@ -18,7 +18,7 @@ def feature():
 
 n: int = 2
 
-k: int = 5
+k: int = 6
 
 
 func1()
