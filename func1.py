@@ -4,7 +4,6 @@ def func1():
 
 
 def func3():
-
     print(7)
 
 
@@ -17,12 +16,9 @@ def feature():
 
 
 n: int = 2
-
 k: int = 6
 
 
 func1()
-
-
 func3()
 func4()
