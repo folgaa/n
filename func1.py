@@ -5,7 +5,7 @@ def func1():
 
 def func3():
 
-    print(3)
+    print(7)
 
 
 def func4():
