@@ -13,7 +13,7 @@ def func4():
 def feature():
     return 0
 
-n : int = "n"
+n : int =      "n"
 k : int = 5
 func1()
 func3()
